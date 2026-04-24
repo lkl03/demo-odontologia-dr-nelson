@@ -1,2 +1,7 @@
-# demo-odontologia-dr-nelson
-Demo web para Odontología - Dr. Nelson — diseñada por eterlab.
+# Odontología - Dr. Nelson
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
